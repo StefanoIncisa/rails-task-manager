@@ -2,7 +2,7 @@
 
 A to-do list web app built with **Ruby on Rails**. Users can browse their tasks, open a single task to see its details, and create new ones through a form.
 
-Built during the [Le Wagon](https://www.lewagon.com) Web Development bootcamp (London, 2026) to practise the core Rails request cycle: routes, controllers, models and views.
+Built during the [Le Wagon](https://www.lewagon.com) AI Software Development bootcamp (2026) to practise the core Rails request cycle: routes, controllers, models and views.
 
 ## Features
 
